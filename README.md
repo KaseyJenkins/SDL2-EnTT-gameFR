@@ -1,4 +1,4 @@
-# SDL-EnTT-game
+# SDL-EnTT-gameFR
 
 ![Screenshot](https://github.com/KaseyJenkins/SDL2-EnTT-gameFR/blob/main/.github/SDL-EnTT-screenshot.png)
 
