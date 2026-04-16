@@ -6,7 +6,7 @@
 
 This is a simple game prototype using [SDL2](https://www.libsdl.org/), [EnTT framework](https://github.com/skypjack/entt), and a [Tiled TMX Map](https://doc.mapeditor.org/en/stable/reference/tmx-map-format/), which is parsed with [tinytmx](https://github.com/KaseyJenkins/tinytmx).
 
-## Requirements
+## Requirements 
 
 The following are required to compile the project:
 * `C++17`.
